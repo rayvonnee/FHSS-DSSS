@@ -27,6 +27,9 @@ frequency hopping spread spectrum is adaptive frequency hopping
 spread spectrum that improves resistance to radio frequency
 interference by avoiding crowded frequency in hopping sequence.
 
+![alt
+text](http://www.rfwireless-world.com/images/FHSS-Transmitter-Receiver-Block-Diagram.jpg)
+
 #### Benefits
 or advantages of FHSS
 
@@ -44,8 +47,7 @@ applications.
 It provides security against any kind of intrusion as only
 transmitter and receiver are aware of PN codes. 
 
-![alt
-text](http://www.rfwireless-world.com/images/DSSS-Transmitter-Receiver-Block-Diagram.jpg)
+
 
 #### Drawbacks
 or disadvantages of FHSS
@@ -106,7 +108,8 @@ correlated. Such a signal is then sent to a BPSK demodulator.
 Although these signals appear to be noisy in the frequency domain,
 bandwidth provided by the PN code permits the signal power to drop
 below the noise threshold without any loss of information.
-
+![alt
+text](http://www.rfwireless-world.com/images/DSSS-Transmitter-Receiver-Block-Diagram.jpg)
 #### Benefits
 or advantages of DSSS
 
