@@ -45,7 +45,7 @@ It provides security against any kind of intrusion as only
 transmitter and receiver are aware of PN codes. 
 
 ![alt
-text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+text](http://www.rfwireless-world.com/images/DSSS-Transmitter-Receiver-Block-Diagram.jpg)
 
 #### Drawbacks
 or disadvantages of FHSS
